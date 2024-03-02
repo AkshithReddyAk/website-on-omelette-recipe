@@ -1,0 +1,91 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  background: rgb(255, 249, 233);
+}
+img{
+  height: 200px;
+  width: 430px;
+  margin-left: 0px;
+}
+#main{
+  border: 2px solid white;
+  background-color: white;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 400px;
+  margin-right: 400px;
+  padding: 30px;
+  padding-bottom: 100px;
+  margin-right: 385px;
+  
+  border-radius: 15px;
+}
+.main{
+  background-color: rgb(242, 235, 248);
+  padding-left: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding-top: 5px;
+  padding-bottom: 20px;
+}
+
+.div{
+  padding-left: 20px;
+  font-size: 12px;
+}
+h2{
+  color: rgb(151, 75, 21);
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+hr{
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.hr{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.p{
+  font-size: 11px ;
+  margin-top: 10px;
+}
+
+.hi{
+  font-size: 12px;
+  margin-top: 7px;
+  color: black;
+}
+.li{
+  display: inline;
+  font-size: 12px;
+}
+h1{
+  font-size: 30px;
+}
+table{
+  display: inline;
+ margin-right: 100px;
+}
+#a{
+  margin-right: 180px;
+}
+#b{
+margin-right: 160px ;
+}
+#c{
+margin-right: 165px ;
+}
+#d{
+margin-right: 152px;
+
+}
+.last{
+ padding-bottom: 20px;
+}
